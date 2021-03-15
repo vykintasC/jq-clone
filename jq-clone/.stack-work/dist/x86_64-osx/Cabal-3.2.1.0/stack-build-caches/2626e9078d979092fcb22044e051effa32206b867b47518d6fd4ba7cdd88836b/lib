@@ -1,0 +1,22 @@
+/Users/vykintascivas/Desktop/jq-clone/jq-clone/src/Jq/Filters.hs:
+  hash: 343343e8585e9dfbaca327221a302b7dcbd4704d2c39801e5b50184d16bb85db
+/Users/vykintascivas/Desktop/jq-clone/jq-clone/src/Jq/Main.hs:
+  hash: c07fb30b01a2fbdc9d162b86b7f5650cd0175134aaf229deaeeb47c5ee46a086
+/Users/vykintascivas/Desktop/jq-clone/jq-clone/src/Parsing/Parsing.hs:
+  hash: 246dbedcf3a818ee8a2f99375cfec7b8c51b8d7b3b612fea1398cd247dd3cabf
+/Users/vykintascivas/Desktop/jq-clone/jq-clone/src/Jq/Compiler.hs:
+  hash: 5adb7b9f1507522064d646cf503f6c2ff14b84e2d762131b56c113bd1cbd7a41
+/Users/vykintascivas/Desktop/jq-clone/jq-clone/src/Jq/Json.hs:
+  hash: 08543e03ad0cf85bac00041dde6958499b5044bdf9290ce362430e8e25c0986a
+/Users/vykintascivas/Desktop/jq-clone/jq-clone/src/Jq/JParser.hs:
+  hash: 3c7991addd339c79addf91ef9f15e49d61dd2af25ff230f20c8dd4de1fbe6e78
+/Users/vykintascivas/Desktop/jq-clone/jq-clone/JqClone.cabal:
+  hash: c2cc91ce1c1f0bcbb970ab38e668c4932ece6d732cdbfc3eb8abb3876e9403d2
+/Users/vykintascivas/Desktop/jq-clone/jq-clone/src/Jq/Parser.hs:
+  hash: fd47f5bb4b64aac68ed549027272ed438ea47375ff4bbce3034faf6cea67fb40
+/Users/vykintascivas/Desktop/jq-clone/jq-clone/src/Jq/CParser.hs:
+  hash: 1013998506269e4f25d43acefea0b0aeeb169e25847074f7cf023b2423bd4f9c
+/Users/vykintascivas/Desktop/jq-clone/jq-clone/README.md:
+  hash: d376fb1be0f32763ae56424a18b714bdb715274af9cd985a930a27bce0f3970f
+/Users/vykintascivas/Desktop/jq-clone/jq-clone/test/data/jq.test:
+  hash: ea97049ac3e1a93ee0ec439b6002b554c025fcf9ed1f6a62f13fab9490832c86
