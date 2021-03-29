@@ -1,0 +1,10 @@
+? /Users/vykintascivas/Desktop/jq-clone/jq-clone/.stack-work/dist/x86_64-osx/Cabal-3.2.1.0/build/from-upstream/autogen/Paths_JqClone.hs
+: hash: 97b3af1c6e0092dafccc92fc09a8726554722918a10fd923bbde3e54aacc872a
+/Users/vykintascivas/Desktop/jq-clone/jq-clone/JqClone.cabal:
+  hash: c2cc91ce1c1f0bcbb970ab38e668c4932ece6d732cdbfc3eb8abb3876e9403d2
+/Users/vykintascivas/Desktop/jq-clone/jq-clone/README.md:
+  hash: d376fb1be0f32763ae56424a18b714bdb715274af9cd985a930a27bce0f3970f
+/Users/vykintascivas/Desktop/jq-clone/jq-clone/test/data/jq.test:
+  hash: ea97049ac3e1a93ee0ec439b6002b554c025fcf9ed1f6a62f13fab9490832c86
+/Users/vykintascivas/Desktop/jq-clone/jq-clone/test/Test.hs:
+  hash: 38250f98cd9d0bec555a8e83ff89fee82160fa52fd25df829ebcf0be162d0e3f
